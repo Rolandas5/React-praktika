@@ -9,6 +9,7 @@ export const Counter = () => {
       <h1>Pirmas darbelis</h1>
       <p>Skaičius: {count}</p>
       <button onClick={() => setCount(count + 1)}>Didinti</button>
+      <button onClick={() => setCount(count - 1)}>Atimti</button>
     </div>
   );
 };

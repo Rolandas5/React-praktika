@@ -1,0 +1,21 @@
+.phone-card {
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+  width: 200px;
+}
+
+.phone-card-discount {
+  color: red;
+}
+
+.car-card {
+  border: 1px solid #3432abaf;
+  border-radius: 12px;
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+  width: 200px;
+}
